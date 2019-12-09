@@ -1,4 +1,4 @@
-# Vue / Vuex single page application
+# Vue / Vuex SPA
 
 
 Demo: https://farhadnawab.github.io/PGT/
